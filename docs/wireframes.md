@@ -32,7 +32,7 @@ Empty state: "No courses yet. Please check back soon."
 | Email     [                 ] |   | Password  [                 ] |
 | ! Enter a valid email address |   |                               |
 | Password  [                 ] |   | ! Email or password is wrong  |
-| At least 12 characters        |   |                               |
+| At least 15 characters        |   |                               |
 |                               |   | [ Log in ]                    |
 | [ Create account ]            |   | New here? Sign up             |
 | Have an account? Log in       |   +-------------------------------+
@@ -49,7 +49,7 @@ Field errors sit under their field and come from `error.fields`.
 | Make your accounts much       |   | Why passwords get stolen      |
 | harder to break into.         |   |                               |
 |                               |   | It is rarely a lucky guess    |
-| 1 of 3 lessons complete       |   | Most stolen passwords come    |
+| 1 of 3 lessons complete       |   | Many stolen passwords come    |
 |                               |   | from another site's breach.   |
 | [x] Why passwords get stolen  |   |                               |
 | [ ] Make strong passwords     |   | +---------------------------+ |
