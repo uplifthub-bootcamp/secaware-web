@@ -93,7 +93,8 @@ Visitors who are not logged in can read lessons. Marking one complete or taking 
 | My certificates               |   |    6 November 2026            |
 | Passwords and 2FA      [View] |   |                               |
 +-------------------------------+   |    Check it at:               |
-                                    |    /verify/7F3A9C21B04E6D18   |
+                                    |    /verify.html?code=         |
+                                    |    7F3A9C21B04E6D18           |
                                     |                               |
                                     |    [ Print ]                  |
                                     +-------------------------------+
